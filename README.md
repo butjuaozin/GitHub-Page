@@ -1,6 +1,3 @@
-# GitHub-Page
-Site para acessar meu Portifólio
+Website to access my portfolio: [Link Here!](https://butjuaozin.github.io/Portifolio-Page/)
 
-Desenvolvido pelo Bootcamp com necessidade de apresentar meu Portfólio Profissional.
-
-[Link Here!](https://butjuaozin.github.io/Portifolio-Page/)
+Developed as part of a bootcamp to showcase my professional portfolio.
